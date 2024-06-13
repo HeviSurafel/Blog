@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+.posts{
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+}

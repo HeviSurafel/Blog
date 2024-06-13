@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "globally": "^0.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.0"
+  }
+}
